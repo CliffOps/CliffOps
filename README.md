@@ -1,64 +1,68 @@
 <div align="center">
 
 # Hey, I'm Clifford 👋🏾
----
 
-## Who I Am
+**Mechanical Engineering Student & Builder**  
+*Benin City, Nigeria*
 
-Mechanical Engineering student from Benin City, Nigeria.
-I don't just want to know how things work, I need to
-know *why*. That curiosity is what drives everything I do.
+[![X](https://img.shields.io/badge/X-@SpaceXFord-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SpaceXFord)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Clifford-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cliffordosazeemen)
 
-Outside of that I'm building skills in web development,
-getting dangerous in SolidWorks, playing chess whenever
-I get the chance, and occasionally losing sleep over
-cosmology rabbit holes.
+</div>
 
 ---
 
-## What I'm Working On
+### 🌌 Who I Am
 
-| Area | Status |
-|---|---|
-| Full Stack JavaScript — The Odin Project | 🔄 Active |
-| SolidWorks — 3D Modeling & Design | 🔄 Active |
-| Git & Version Control | ✅ Solid |
-| Frontend & AI Engineering — FlyRank AI | 🔄 Active |
----
+Mechanical Engineering student driven by curiosity. I don't just want to know how things work. I need to know *why*. That curiosity drives everything I do.
 
-## Interests
-
-🚀 Aerospace & Space Systems
-🔭 Astronomy & Cosmology
-♟️ Chess — OrbitalGambit on Lichess
-🎹 Piano
-⚽ Football
-🌌 Asking questions nobody around me is asking
-
+Outside of core engineering, I'm building modern web development skills, getting dangerous in SolidWorks, playing chess whenever I get the chance, and occasionally losing sleep over cosmology rabbit holes.
 
 ---
 
-## What I Can Offer
+### 🛠️ Tech & Tools
 
-- Curiosity that doesn't stop at the surface
-- Cross-disciplinary thinking across engineering,
-  software, and space systems
-- Self-driven. No hand-holding needed.
-- Fresh perspective from someone building from zero
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## Find Me
+### 🚀 What I'm Working On
 
-[![X](https://img.shields.io/badge/X-@SpaceXFord-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/SpaceXFord)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Clifford-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cliffordosazeemen)
+| Area | Focus | Status |
+| :--- | :--- | :--- |
+| **The Odin Project** | Full Stack JavaScript | 🔄 Active |
+| **CAD / 3D Design** | SolidWorks Modeling | 🔄 Active |
+| **DevOps & Workflow** | Git & Version Control | ✅ Solid |
+| **FlyRank AI** | Frontend & AI Engineering | 🔄 Active |
+
+---
+
+### ♟️ Interests & Pursuits
+
+* 🚀 **Aerospace & Space Systems**
+* 🔭 **Astronomy & Cosmology**
+* ♟️ **Chess:** [OrbitalGambit on Lichess](https://lichess.org/@/OrbitalGambit)
+* 🎹 **Piano** & ⚽ **Football**
+* 🌌 Asking the questions nobody around me is asking
+
+---
+
+### 💡 What I Bring to the Table
+
+* **Deep Curiosity:** Doesn't stop at the surface level.
+* **Cross-Disciplinary Thinking:** Bridging mechanical engineering, software, and systems thinking.
+* **High Agency:** Self-driven. No hand-holding needed.
+* **Fresh Perspective:** The grit and hunger of someone building from zero.
 
 ---
 
 <div align="center">
 
-*"Study hard what interests you the most in the most
-undisciplined, irreverent, and original manner possible."*
-— Richard Feynman
+*"Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible."*  
+- **Richard Feynman**
 
 </div>
