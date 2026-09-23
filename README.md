@@ -2,7 +2,7 @@
 
 # Hey, I'm Clifford 👋🏾
 
-**Space isn't just a destination — it's the direction.**
+**Space isn't just a destination, it's the direction.**
 
 </div>
 
@@ -11,7 +11,7 @@
 ## Who I Am
 
 Mechanical Engineering student from Benin City, Nigeria.
-I don't just want to know how things work — I need to
+I don't just want to know how things work, I need to
 know *why*. That curiosity is what drives everything I do.
 
 Outside of that I'm building skills in web development,
