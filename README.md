@@ -5,7 +5,7 @@
 **Mechanical Engineering Student & Builder**  
 *Benin City, Nigeria*
 
-[![X](https://img.shields.io/badge/X-@SpaceXFord-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SpaceXFord)
+[![X](https://img.shields.io/badge/X-@OrbitalCliff-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/OrbitalCliff)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Clifford-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cliffordosazeemen)
 
 </div>
