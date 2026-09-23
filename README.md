@@ -2,8 +2,6 @@
 
 # Hey, I'm Clifford 👋🏾
 
-**Space isn't just a destination, it's the direction.**
-
 </div>
 
 ---
