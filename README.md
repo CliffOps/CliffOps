@@ -28,7 +28,7 @@ cosmology rabbit holes.
 | Full Stack JavaScript — The Odin Project | 🔄 Active |
 | SolidWorks — 3D Modeling & Design | 🔄 Active |
 | Git & Version Control | ✅ Solid |
-
+| Frontend & AI Engineering — FlyRank AI | 🔄 Active |
 ---
 
 ## Interests
