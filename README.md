@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hey, I'm Clifford 👋🏾
-
 ---
 
 ## Who I Am
