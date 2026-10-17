@@ -2,8 +2,7 @@
 
 # Hey, I'm Clifford 👋🏾
 
-**Mechanical Engineering Student & Builder**  
-*Benin City, Nigeria*
+**Student. Builder. Perpetually curious.**
 
 [![X](https://img.shields.io/badge/X-@OrbitalCliff-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/OrbitalCliff)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Clifford-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cliffordosazeemen)
@@ -12,11 +11,9 @@
 
 ---
 
-### 🌌 Who I Am
+### 🌌 A Bit About Me
 
-Mechanical Engineering student driven by curiosity. I don't just want to know how things work. I need to know *why*. That curiosity drives everything I do.
-
-Outside of core engineering, I'm building modern web development skills, getting dangerous in SolidWorks, playing chess whenever I get the chance, and occasionally losing sleep over cosmology rabbit holes.
+Engineering the physical world. Breaking my brain over cosmology. Building on the web somewhere in between.
 
 ---
 
@@ -30,39 +27,36 @@ Outside of core engineering, I'm building modern web development skills, getting
 
 ---
 
-### 🚀 What I'm Working On
+### 🚀 Currently Building
 
 | Area | Focus | Status |
 | :--- | :--- | :--- |
-| **The Odin Project** | Full Stack JavaScript | 🔄 Active |
+| **The Odin Project** | Foundations | 🔄 Active |
 | **CAD / 3D Design** | SolidWorks Modeling | 🔄 Active |
-| **DevOps & Workflow** | Git & Version Control | ✅ Solid |
 | **FlyRank AI** | Frontend & AI Engineering | 🔄 Active |
 
 ---
 
-### ♟️ Interests & Pursuits
+### 🔭 What I'm Into
 
-* 🚀 **Aerospace & Space Systems**
-* 🔭 **Astronomy & Cosmology**
-* ♟️ **Chess:** [OrbitalGambit on Lichess](https://lichess.org/@/OrbitalGambit)
-* 🎹 **Piano** & ⚽ **Football**
-* 🌌 Asking the questions nobody around me is asking
+* 🚀 Aerospace & Space Systems
+* 🌌 Astronomy & Cosmology
+* ♟️ Chess: [OrbitalGambit on Lichess](https://lichess.org/@/OrbitalGambit)
+* 💭 Asking the questions nobody around me is asking
 
 ---
 
-### 💡 What I Bring to the Table
+<div align="center">
 
-* **Deep Curiosity:** Doesn't stop at the surface level.
-* **Cross-Disciplinary Thinking:** Bridging mechanical engineering, software, and systems thinking.
-* **High Agency:** Self-driven. No hand-holding needed.
-* **Fresh Perspective:** The grit and hunger of someone building from zero.
+![Clifford's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CliffOps&show_icons=true&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 <div align="center">
 
 *"Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible."*  
-- **Richard Feynman**
+— **Richard Feynman**
 
 </div>
