@@ -42,6 +42,7 @@ Engineering the physical world. Breaking my brain over cosmology. Building on th
 * 🚀 Aerospace & Space Systems
 * 🌌 Astronomy & Cosmology
 * ♟️ Chess: [OrbitalGambit on Lichess](https://lichess.org/@/OrbitalGambit)
+* 🎹 Learning piano
 * 💭 Asking the questions nobody around me is asking
 
 ---
@@ -49,6 +50,10 @@ Engineering the physical world. Breaking my brain over cosmology. Building on th
 <div align="center">
 
 ![Clifford's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CliffOps&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CliffOps&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=CliffOps&theme=tokyonight&hide_border=true)
 
 </div>
 
